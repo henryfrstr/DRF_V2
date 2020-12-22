@@ -1,0 +1,4 @@
+/.coverage
+/.vscode
+/db.sqlite3
+/dvenv
